@@ -1,4 +1,4 @@
 # ChatSphere
-Realtime chatting Application 
+Realtime Chatting Application 
 Features: Different rooms for joining.
-Techstack- Express, NodeJs, Socket.io, HTML, CSS
+Techstack- Express, Node Js, Socket.io, HTML, CSS
