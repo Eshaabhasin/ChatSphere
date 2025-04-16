@@ -1,29 +1,30 @@
-# ChatSphere
- 
-Realtime Chatting Application
+# 💬 ChatSphere
 
-A simple real-time chat application that allows users to join different rooms and communicate instantly.
+**Realtime Chatting Application**
 
-Features
+ChatSphere is a simple real-time chat application that allows users to join different rooms and communicate instantly.
 
-Real-time messaging with Socket.io
+## ✨ Features
 
-Multiple chat rooms support
+- 🔄 Real-time messaging with **Socket.io**
+- 🏠 Support for **multiple chat rooms**
+- 👥 User **join/leave notifications**
+- 🎨 Clean and **responsive UI** using HTML & CSS
+- ⚙️ Built with **Node.js** and **Express**
 
-User join/leave notifications
+## 🛠️ Tech Stack
 
-Clean and responsive UI using HTML & CSS
+### Backend
+- **Node.js**
+- **Express**
 
-Built with Node.js and Express
+### WebSockets
+- **Socket.io**
 
+### Frontend
+- **HTML**
+- **CSS**
 
-Tech Stack
-
-Backend: Node.js, Express
-
-WebSockets: Socket.io
-
-Frontend: HTML, CSS
 
 
 
